@@ -1,0 +1,16 @@
+{
+    "name": "纯净B站导航",
+    "short_name": "纯净B",
+    "description": "高审美、无热搜的B站搜索遥控器",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#00aeec",
+    "icons": [
+      {
+        "src": "https://i0.hdslb.com/bfs/static/jinkela/longiser/images/icon_64.png",
+        "sizes": "64x64",
+        "type": "image/png"
+      }
+    ]
+  }
